@@ -27,9 +27,9 @@ import it.geoframe.blogspot.buffer.buffertowriter.HeatDiffusionBuffer1D;
 import it.geoframe.blogspot.buffer.buffertowriter.HeatDiffusionFreezingThawingBufferWithSurfaceEnergyBudget1D;
 import it.geoframe.blogspot.whetgeo1d.heatsolver.HeatDiffusionFreezingThawingSolver1DMain;
 import it.geoframe.blogspot.whetgeo1d.heatsolver.HeatDiffusionSolver1DMain;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatDiffusionGrid1D;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatDiffusion1DDouble;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatDiffusionFreezingThawingWithSurfaceEnergyBudget1DDouble;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatDiffusionGrid1D;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatDiffusion1DDouble;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatDiffusionFreezingThawingWithSurfaceEnergyBudget1DDouble;
 
 import org.junit.Test;
 

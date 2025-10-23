@@ -1,7 +1,7 @@
 /*
   * GNU GPL v3 License
  *
- * Copyright 2022 Niccolò Tubini
+ * Copyright 2022 Niccolï¿½ Tubini
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -27,7 +27,7 @@ import org.hortonmachine.gears.io.timedependent.OmsTimeSeriesIteratorReader;
 
 import it.geoframe.blogspot.buffer.buffertowriter.*;
 import it.geoframe.blogspot.whetgeo1d.heatsolver.*;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.*;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.*;
 
 
 import org.junit.Test;
