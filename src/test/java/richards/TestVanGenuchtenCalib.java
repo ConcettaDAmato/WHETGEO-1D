@@ -27,8 +27,8 @@ import org.hortonmachine.gears.io.timedependent.OmsTimeSeriesIteratorWriter;
 import it.geoframe.blogspot.buffer.buffertowriter.RichardsBuffer1D;
 import it.geoframe.blogspot.whetgeo1d.richardssolver.RichardsSolver1DMain;
 import it.geoframe.blogspot.buffer.buffercalibrationpoints.BufferCalibrationRichards1D;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFRichardsGrid1D;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFRichards1DDouble;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFRichardsGrid1D;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFRichards1DDouble;
 
 import org.junit.Test;
 

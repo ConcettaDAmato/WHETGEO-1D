@@ -25,9 +25,9 @@ import org.hortonmachine.gears.io.timedependent.OmsTimeSeriesIteratorReader;
 
 import it.geoframe.blogspot.buffer.buffertowriter.HeatAdvectionDiffusionBuffer1D;
 import it.geoframe.blogspot.whetgeo1d.heatsolver.HeatAdevectionDiffusionSolver1DMain;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatAdvectionDiffusionGrid1D;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatAdvectionDiffusionOutput1D;
-import it.geoframe.blogpsot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatAdvectionDiffusion1D;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatAdvectionDiffusionGrid1D;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.ReadNetCDFHeatAdvectionDiffusionOutput1D;
+import it.geoframe.blogspot.netcdf.monodimensionalproblemtimedependent.WriteNetCDFHeatAdvectionDiffusion1D;
 
 import org.junit.Test;
 

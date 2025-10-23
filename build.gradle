@@ -45,7 +45,7 @@ repositories {
 
 dependencies {
 	compile name: 'closureequation-1.0.3-beta'
-	compile name: 'netcdf-1.0.32-beta'
+	compile name: 'netcdf-1.2.9'
 	compile name: 'numerical-1.0.2'
 	compile name: 'buffer-1.0.32-beta'
     
